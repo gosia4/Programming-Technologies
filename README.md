@@ -4,5 +4,6 @@
 
 | Name Surname            | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| Małgorzata Komorowska   | `{FD9D086C-532F-4AAC-BB99-69D7798837D8}` |
-| Szymon Gawłowski        | `{44FBFCF5-4430-4964-878D-1867DC679E0D}` |
+| Małgorzata Komorowska   | '{74666e3c-6d1c-44ce-b870-60cea3d762b6}' |
+| Szymon Gawłowski        | '{ae758c58-802a-4653-9c5d-19a5c3476d17}' |
+
